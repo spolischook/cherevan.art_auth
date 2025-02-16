@@ -2,7 +2,7 @@
 
 A serverless OAuth service for Cherevan.art, built with AWS Lambda and API Gateway.
 
-> Note: This repository is automatically synchronized from the main monorepo.
+> Note: This repository is automatically synchronized from the main monorepo using GitHub Actions.
 
 ## Features
 
