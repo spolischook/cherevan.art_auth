@@ -15,6 +15,10 @@ A serverless OAuth service for Cherevan.art, built with AWS Lambda and API Gatew
 
 This module is maintained in the main Cherevan.art monorepo. Please submit all pull requests there.
 
+## Deployment
+
+This repository is automatically synchronized from the main monorepo using GitHub Actions and SSH deploy keys. Any changes pushed to the `google-auth` directory in the main repository will be automatically reflected here.
+
 ## Prerequisites
 
 - Go 1.21 or later
