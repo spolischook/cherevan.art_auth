@@ -1,8 +1,8 @@
 # Cherevan.art OAuth Service
 
-[![CI](https://github.com/spolischook/cherevan.art_auth/actions/workflows/ci.yml/badge.svg)](https://github.com/spolischook/cherevan.art_auth/actions/workflows/ci.yml)
-
 A serverless OAuth service for Cherevan.art, built with AWS Lambda and API Gateway.
+
+> Note: This repository is automatically synchronized from the main monorepo.
 
 ## Features
 
