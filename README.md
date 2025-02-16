@@ -11,6 +11,10 @@ A serverless OAuth service for Cherevan.art, built with AWS Lambda and API Gatew
 - Serverless architecture using AWS Lambda
 - Infrastructure as Code using Terraform
 
+## Contributing
+
+This module is maintained in the main Cherevan.art monorepo. Please submit all pull requests there.
+
 ## Prerequisites
 
 - Go 1.21 or later
